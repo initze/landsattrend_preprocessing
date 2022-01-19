@@ -1,2 +1,2 @@
 # landsattrend_preprocessing
-preprocessing script for landsattrend lake analyzer
+preprocessing script for https://github.com/initze/landsattrend lake analyzer
